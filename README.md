@@ -2,6 +2,6 @@ I'm Ran Liu. I completed my PhD in Biomedical Engineering at the Johns Hopkins U
 
 Currently, I'm a Research Fellow with Dr. Patrick Purdon at Massachusetts General Hospital and Harvard Medical School in the department of Anesthesiology, Critical Care, and Pain Medicine. My research is in treatment optimization in anesthesia and pain management, and on the characterization of consciousness and disease states.
 
-I am broadly interested in the application of dynamical systems modeling, machine learning, and artificial intelligence methods to problems in medicine. In particular, I am interested in brain function, consciousness, and cognition, and in the intersection of machine learning and model-based methods.
+I am broadly interested in the application of dynamical systems modeling, machine learning, and artificial intelligence methods to problems in medicine. In particular, I am interested in brain function, consciousness, cognition, and in the intersection of machine learning and model-based methods.
 
 [https://scholar.google.com/citations?user=bshgBtkAAAAJ](https://scholar.google.com/citations?user=bshgBtkAAAAJ)
